@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NotificadorEmailTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-07-29T09:59:07" hostname="PAPU" time="0.44">
+  <properties/>
+  <testcase name="testNotificar()" classname="NotificadorEmailTest" time="0.426"/>
+  <testcase name="testNotificarConDireccionVacia()" classname="NotificadorEmailTest" time="0.005"/>
+  <testcase name="testNotificarConMensajeNulo()" classname="NotificadorEmailTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
